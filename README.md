@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently a junior student in SUSTech (Southern University of Science and Technology).
+My major is Information Engineering under the Department of EE.
+My current research interests are ML and CV.
 [![My_Github_States](https://github-readme-stats.vercel.app/api?username=Tangent-H)]()
