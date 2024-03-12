@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 
 ![Tangent_H_Github_States](https://github-readme-stats.vercel.app/api?username=Tangent-H&show_icons=true&count_private=true)
 
-![Tangent_H Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tangent-H&layout=compact)
