@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - My major is Information Engineering under the Department of EE.
 - My current research interests are ML and CV.
 
-[![My_Github_States](https://github-readme-stats.vercel.app/api?username=Tangent-H)]()
+![Tangent_H_Github_States](https://github-readme-stats.vercel.app/api?username=Tangent-H)&show_icons=true&count_private=true]()
+
+![Tangent_H Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tangent-H&layout=compact)
