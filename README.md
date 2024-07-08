@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - My major is Information Engineering under the Department of EE.
 - My current research interests are Machine Learning and Computer Vision.
 
-![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Tangent-H&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Tangent-H&layout=donut&hide_border=true&exclude_repo=vercel_repo,RM2023_Energy_Mechanism,dvgl&hide=javascript,html,scss,jupyternotebook)
+![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Tangent-H&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Tangent-H&layout=donut&hide_border=true&exclude_repo=vercel_repo,RM2023_Energy_Mechanism,dvgl&hide=javascript,html,scss,jupyter_notebook)
 
