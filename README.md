@@ -1,6 +1,6 @@
 ### Hi, I'm Tingjun Huang (Tangent).
 
-I am an MSc student in **Robotics, Systems and Control at ETH Zurich**, interested in **embodied AI and 3D computer vision**.
+I am an MSc student in Robotics, Systems and Control at ETH Zurich, interested in embodied AI and 3D computer vision.
 
 My recent work focuses on:
 
